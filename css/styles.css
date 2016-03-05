@@ -1,0 +1,27 @@
+.navbar{
+	border:0;
+	border-radius: 0;
+}
+.navbar ul li a {
+ text-align: center;
+ border: 1px solid #333;
+}
+
+#chicken{
+	background: #ddd;
+	height: 1000px;
+	margin-top: 5%;
+}
+#pork_chop{
+	background: #ddd;
+	height: 1000px;
+	margin-top: 3%;
+}
+#steak{
+	background: #ddd;
+	height: 1000px;
+	margin-top: 3%;
+}
+h2 {
+   text-align: center;
+}
