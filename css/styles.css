@@ -25,3 +25,11 @@
 h2 {
    text-align: center;
 }
+
+
+@media(max-width: 767px){
+#chicken{ width: 90%; margin-left:5%;}
+#pork_chop{ width: 90%; margin-left:5%;}
+#steak{ width: 90%; margin-left:5%;}
+
+}
